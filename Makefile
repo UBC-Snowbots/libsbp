@@ -1,3 +1,7 @@
+# SNOWBOTS NOTE:
+# We're using a VERY stripped down version of this library, 
+# so most of the stuff in here isn't relevant
+
 # Convenience Makefile for generating and releasing SBP client
 # libraries. Please read and understand the contents of this file
 # before using it to do Crazy Things.
